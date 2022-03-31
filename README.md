@@ -1,16 +1,20 @@
-### Hi there 👋
+## Hi it's Ram👋
+***
+I'am Ram Thapa a full stack software developer and have keen interest learning new technologies.Beside my work i love playing football,watching movies and exploring new places.
 
-<!--
-**viperthapa/viperthapa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+✨  More Info 
+- 🏛 currently working as a software engineer in LF Technology
+- 📟 More than Two years working experience in software developement
+- ❤️ learning and research enthusiastic
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Technology**
+  - Programming languages : C,Python,javascript
+  - Framework : Django,Flask,React,Node and Express
+  - Other Skills : Docker,Deployement
+
+**Profile**
+  - *Linkedin* : https://www.linkedin.com/in/ram-thapa-ba2a16157/
+  
+
+
