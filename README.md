@@ -1,17 +1,17 @@
 ## Hi it's Ram👋
 ***
-I'am Ram Thapa a full stack software developer and have keen interest learning new technologies.Beside my work i love playing football,watching movies and exploring new places.
+I am Ram Thapa a full-stack software developer and have a keen interest in learning new technologies. Besides my work, I love playing football, watching movies, and exploring new places.
 
 
 ✨  More Info 
-- 🏛 currently working as a software engineer in LF Technology
-- 📟 More than Two years working experience in software developement
+- 🏛 currently working as a software engineer in Leapfrog Technology
+- 📟 More than Three years of working experience in software development
 - ❤️ learning and research enthusiastic
 
 **Technology**
-  - Programming languages : C,Python,javascript
-  - Framework : Django,Flask,React,Node and Express
-  - Other Skills : Docker,Deployement
+  - Programming languages: C,Python,javascript
+  - Framework: Django,Flask, React,Node and Express
+  - Other Skills: Docker,Deployment,AWS
 
 **Profile**
   - *Linkedin* : https://www.linkedin.com/in/ram-thapa-ba2a16157/
