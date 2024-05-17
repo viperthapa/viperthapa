@@ -17,4 +17,6 @@ I am Ram Thapa a full-stack software developer and have a keen interest in learn
   - *Linkedin* : https://www.linkedin.com/in/ram-thapa-ba2a16157/
   
 
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=viperthapa.viperthapa)
+
 
