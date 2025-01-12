@@ -5,7 +5,7 @@ I am Ram Thapa a full-stack software developer and have a keen interest in learn
 
 ✨  More Info 
 - 🏛 currently working as a software engineer in Leapfrog Technology
-- 📟 More than Three years of working experience in software development
+- 📟 Five years of working experience in software development
 - ❤️ learning and research enthusiastic
 
 **Technology**
